@@ -1,4 +1,4 @@
-# README: Analyzing AI-Generated Propaganda
+# README: AI-Generated Propaganda
 
 ## Objective
 
