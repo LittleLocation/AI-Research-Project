@@ -15,6 +15,9 @@ Key technologies such as ChatGPT, developed by OpenAI, play a significant role i
 ### Study Design
 Participants reviewed a series of 12 headlines—six AI-generated and six authentic—on topics including the Great Depression and the 2020 French presidential election. They were tasked with identifying the origin of each headline and rating their confidence on a scale from 1 (least confident) to 5 (most confident). Data was collected via surveys, providing insights into accuracy rates and confidence levels.
 
+## Chat-GPT Results
+https://chatgpt.com/share/6756b26e-d46c-8011-a4bc-1cab2ed721d3
+https://chatgpt.com/share/6756b2d2-8420-8011-bb12-503dd8bbf33d
 
 
 
